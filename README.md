@@ -1,8 +1,8 @@
-# Curso de JavaScript e TypeScript - Do Básico ao Avançado
+# Conteudo do Curso de JavaScript e TypeScript - Do Básico ao Avançado que venho fazendo.
 
 ![JavaScript e TypeScript](https://img-c.udemycdn.com/course/750x422/2575266_c184_4.jpg)
 
-Bem-vindo ao Curso de JavaScript e TypeScript - Do Básico ao Avançado! Este repositório contém todo o material necessário para acompanhar e aprofundar seus conhecimentos em JavaScript e TypeScript, duas das linguagens de programação mais populares e poderosas do mundo atual.
+Bem-vindo ao Curso de JavaScript e TypeScript - Do Básico ao Avançado! Este repositório contém todo o material necessário para acompanhar e aprofundar seus conhecimentos em JavaScript e TypeScript juntos comigo, duas das linguagens de programação mais populares e poderosas do mundo atual.
 
 ## Descrição do Curso
 
@@ -48,12 +48,12 @@ Além das aulas práticas e teóricas, este repositório contém recursos extras
 
 ## Contribuição
 
-Se você encontrar erros, tiver sugestões ou quiser contribuir para tornar este curso melhor, sinta-se à vontade para abrir um *issue* ou enviar um *pull request*.
+Se você encontrar erros, tiver sugestões ou quiser contribuir para tornar o meu aprendizado melhor, sinta-se à vontade para abrir um *issue* ou enviar um *pull request*.
 
 ## Aviso Legal
 
 Este repositório é apenas para fins educacionais e de aprendizado. Todo o conteúdo aqui presente tem como objetivo auxiliar no aprendizado de JavaScript e TypeScript, e não deve ser utilizado para outros fins.
 
-Vamos embarcar nesta jornada de aprendizado juntos? Prepare-se para se tornar um(a) desenvolvedor(a) mais confiante e experiente em JavaScript e TypeScript!
+Vamos embarcar nesta jornada de aprendizado juntos?
 
 **Bons estudos!**
